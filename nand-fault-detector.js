@@ -1,5 +1,5 @@
 /**
- * NAND Gate Fault Detector with Pin Identification
+ * NAND Gate Fault Detector with Pin Identifications
  * Custom DSP block for Edge Impulse
  */
 module.exports = function(data, params) {
